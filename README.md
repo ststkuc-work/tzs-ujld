@@ -5,7 +5,7 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 
  Terminus: Zombie Survivors (hereafter T:ZS) - Distribute translation data in unofficial Japanese.
  - Download link (https://github.com/ststkuc-work/tzs-ujld/)
- - Links to unofficial Japanese language support (docs.google.com)
+ - Links to unofficial Japanese language support (https://discord.new/jKg8qfQ3eWZx)
  - Compatible with V 0.9.8 Beta and Hotfix.
  - Translation data is unofficial. It has nothing to do with IngeonGames.
 
@@ -53,7 +53,8 @@ added.
    Data _ English _ to _ Japanese _ Renames to Data from the most recent date.
 
  - FontInfo.json specifies the Japanese font used to display the game screen.
-    The default Japanese font is NotoSansCJKjp. Link of Adobe Font (https://fonts.adobe.com/fonts/noto-sans-cjk-jp).
+   The default Japanese font is NotoSansCJKjp.
+   Details: Adobe Font (https://fonts.adobe.com/fonts/noto-sans-cjk-jp).
 
 6.Launch the game and click Setting.
 
@@ -87,4 +88,4 @@ added.
 　　Terminus: Zombie Survivors (https://terminuszombiesurvivors.com)
 
   - Unofficial Japanese Support Discord
-　　Terminus: Zombie Survivors Japan (https://terminuszombiesurvivors.com)
+　　Terminus: Zombie Survivors Japan  (https://discord.new/jKg8qfQ3eWZx)
