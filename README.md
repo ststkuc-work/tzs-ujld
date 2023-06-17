@@ -83,8 +83,8 @@ added.
 
 9.Link
 
-　　Official Website
-　　・Terminus: Zombie Survivors (terminuszombiesurvivors.com)
+  - Official Website
+　　Terminus: Zombie Survivors (terminuszombiesurvivors.com)
 
-　　Unofficial Japanese Support Discord
-　　・Terminus: Zombie Survivors Japan (terminuszombiesurvivors.com)
+  - Unofficial Japanese Support Discord
+　　Terminus: Zombie Survivors Japan (terminuszombiesurvivors.com)
