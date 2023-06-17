@@ -8,7 +8,7 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
  
 　・ダウンロードへのリンク [https://github.com/ststkuc-work/tzs-ujld/]
  
-  ・非公式　日本語サポートへのリンク [https://discord.gg/msDjAbqx7r]
+　・非公式　日本語サポートへのリンク [https://discord.gg/msDjAbqx7r]
   
 　・V0.9.8 BetaとHotfixに対応。
  
@@ -42,9 +42,9 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
  
 　５．アイテムの名称は、複数の種類がある場合、・（なかてん（中点））で区切る。
  
-　６．アイテムの説明は、画面表示の見やすさを優先して、改行<br>を追加。
+　６．アイテムの説明は、画面表示の見やすさを優先して、改行”<br>”を追加。
  
-　７．プレイヤーに良い効果は、<color=GREEN>緑色</color>で示す。悪い効果は、<color=RED>赤色</color>で示す。
+　７．プレイヤーに良い効果は、”<color=GREEN>緑色</color>”で示す。悪い効果は、”<color=RED>赤色</color>”で示す。
 
 　最後に、翻訳で対応できない箇所は、T:ZS ゲーム内部でシステムの関数などが使用され、プログラムで組み込まれた箇所です。
  
@@ -72,7 +72,7 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 
 　・FontInfo.jsonは、ゲームの画面表示に使用する日本語フォントの指定です。
  
-    初期設定の日本語フォントは、NotoSansCJKjpです。
+　　初期設定の日本語フォントは、NotoSansCJKjpです。
     
 　　詳細 : Adobe Font [https://fonts.adobe.com/fonts/noto-sans-cjk-jp]。　
 
@@ -96,9 +96,7 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 
 　　Q:日本語化されていない箇所がある。
   
-　　A:翻訳で対応できない箇所は、T:ZS ゲーム内部でシステムの関数などが使用され、プログラムで組み込まれた箇所です。
-  
-　　　翻訳の不都合ではありませんことを、お知らせします。
+　　A:翻訳で対応できない箇所は、T:ZS ゲーム内部でシステムの関数などが使用され、プログラムで組み込まれた箇所です。翻訳の不都合ではありませんことを、お知らせします。
 
 　　Q:翻訳に意訳がある。
   
@@ -108,7 +106,7 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
   
 　　A:FontInfo.jsonのうち、"Normal"＝通常、"Bold"＝太字をお好みの日本語フォント名に指定することで、ゲームの画面表示が変更されます。
   
-　　　お好みの日本語フォントは、Google Font[https://fonts.google.com]、Adobe Font[https://fonts.adobe.com]からダウンロードできます。
+　　　　お好みの日本語フォントは、Google Font[https://fonts.google.com]、Adobe Font[https://fonts.adobe.com]からダウンロードできます。
 
 ９．Link
 
