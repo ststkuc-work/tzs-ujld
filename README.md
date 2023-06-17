@@ -69,23 +69,29 @@ added.
 8.FAQ
 
  Q: Did you get official permission?
+ 
  A: I checked with IngeonGames and they gave me permission. There is no Japanese language support system, so we work informally.
 
  Q: Some parts have not been translated into Japanese.
+ 
  A: Where translation doesn't work is where functions of the system are used inside the T:ZS game and are programmed in.
     I would like to inform you that the translation is not inconvenient.
 
  Q: There is a free translation.
+ 
  A: Please send a better idea in the comments or to the Terminus: Zombie Survivors Japan channel "# Translate" on Discord (https://discord.gg/msDjAbqx7r).
 
  Q: I want to change the Japanese characters.
+ 
  A: In FontInfo.json, "Normal" = Normally, "Bold" = Bold as the Japanese font name of your choice changes the game's screen display.
     You can download your favorite Japanese fonts from Google Font (https://fonts.google.com) and Adobe Font (https://fonts.adobe.com).
 
 9.Link
 
   - Official Website
+    
 　　Terminus: Zombie Survivors (https://terminuszombiesurvivors.com)
 
   - Unofficial Japanese Support Discord
+    
 　　Terminus: Zombie Survivors Japan  (https://discord.gg/msDjAbqx7r)
