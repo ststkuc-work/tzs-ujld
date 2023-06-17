@@ -71,7 +71,7 @@ added.
  A: I checked with IngeonGames and they gave me permission. There is no Japanese language support system, so we work informally.
 
  Q: Some parts have not been translated into Japanese.
- A: Where translation doesn't work is where functions of the system are used inside the T: ZS game and are programmed in.
+ A: Where translation doesn't work is where functions of the system are used inside the T:ZS game and are programmed in.
     I would like to inform you that the translation is not inconvenient.
 
  Q: There is a free translation.
