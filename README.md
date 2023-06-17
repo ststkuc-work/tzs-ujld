@@ -26,7 +26,7 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 
  1. T:ZS developer: Respect the world view of IngeonGames and work to get the most appropriate translation.
  2. Select appropriate expressions in accordance with the laws and regulations of Japan and the widespread understanding of society.
- 3. Converting from English to Japanese, the in-game displays and explanations are in the Do/Do tone. Non-game displays and descriptions are unified in desu and masu tones.
+ 3. Converting from English to Japanese, the in-game displays and explanations are in the suru and dekiru tones. Non-game displays and descriptions are unified in desu and masu tones.
  4. Proper nouns often used are expressed in full-width katakana. Change to half-width katakana characters when there is a limit on the number of characters displayed on the screen or when it is difficult to see duplicate characters.
  5. If there is more than one type of item, separate the names by - (nakaten (midpoint)).
  6. The description of the item should be placed on a new line in order to make it easier to see on the screen.
@@ -79,12 +79,12 @@ added.
 
  Q: I want to change the Japanese characters.
  A: In FontInfo.json, "Normal" = Normally, "Bold" = Bold as the Japanese font name of your choice changes the game's screen display.
-    You can download your favorite Japanese fonts from Google Font (fonts.google.com) and Adobe Font (fonts.adobe.com).
+    You can download your favorite Japanese fonts from Google Font (https://fonts.google.com) and Adobe Font (https://fonts.adobe.com).
 
 9.Link
 
   - Official Website
-　　Terminus: Zombie Survivors (terminuszombiesurvivors.com)
+　　Terminus: Zombie Survivors (https://terminuszombiesurvivors.com)
 
   - Unofficial Japanese Support Discord
-　　Terminus: Zombie Survivors Japan (terminuszombiesurvivors.com)
+　　Terminus: Zombie Survivors Japan (https://terminuszombiesurvivors.com)
