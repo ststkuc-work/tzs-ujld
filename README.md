@@ -1,2 +1,2 @@
 # tzs-ujld
-Terminus: Zombie Survivors - Unofficial Japanese Language Data tzsujld
+Terminus: Zombie Survivors - Unofficial Japanese Language Data
