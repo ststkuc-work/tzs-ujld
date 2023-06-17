@@ -4,8 +4,8 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 1.Introduction
 
  Terminus: Zombie Survivors (hereafter T:ZS) - Distribute translation data in unofficial Japanese.
- - Download link (https://github.com/ststkuc-work/tzs-ujld/)
- - Links to unofficial Japanese language support (https://discord.gg/msDjAbqx7r)
+ - [Download](https://github.com/ststkuc-work/tzs-ujld/) link
+ - [Discord](https://discord.gg/msDjAbqx7r) Links to unofficial Japanese language support
  - Compatible with V 0.9.8 Beta and Hotfix.
  - Translation data is unofficial. It has nothing to do with IngeonGames.
 
@@ -43,9 +43,11 @@ added.
  - Data _ English _ to _ Japanese _ Latest Date.json
  - FontInfo.json
 
+ For those who want to compare English and Japanese to see the content, we store Excel files. (Seat protection is available)
+
 5.Installing translation data
 
- Create a Japanese folder in the C:// Program Files (x 86)/Steam/steamapps/common/Terminus/languages folder.
+ Create a Japanese folder in the C:\Program Files (x86)\Steam\steamapps\common\Terminus\languages folder.
  Store the downloaded data in the Japanese folder.
 
  - The latest date file is the file that shows the date when it was translated from English to Japanese.
@@ -54,7 +56,7 @@ added.
 
  - FontInfo.json specifies the Japanese font used to display the game screen.
    The default Japanese font is NotoSansCJKjp.
-   Details: Adobe Font (https://fonts.adobe.com/fonts/noto-sans-cjk-jp).
+   Details: [Adobe Font noto-sans-cjk-jp](https://fonts.adobe.com/fonts/noto-sans-cjk-jp).
 
 6.Launch the game and click Setting.
 
@@ -63,7 +65,7 @@ added.
 
 7.Uninstalling translation data
 
- Delete the Japanese folder in the C: \Program Files (x 86) \Steam \steamapps \common \Terminus \languages folder.
+ Delete the Japanese folder in the C:\Program Files (x86)\Steam\steamapps\common\Terminus\languages folder.
  When you start the game, the in-game display changes from Japanese to English.
 
 8.FAQ
@@ -79,19 +81,19 @@ added.
 
  Q: There is a free translation.
  
- A: Please send a better idea in the comments or to the Terminus: Zombie Survivors Japan channel "# Translate" on Discord (https://discord.gg/msDjAbqx7r).
+ A: Please send a better idea in the comments or to the Terminus: Zombie Survivors Japan channel "#Translate" on [Discord](https://discord.gg/msDjAbqx7r).
 
  Q: I want to change the Japanese characters.
  
  A: In FontInfo.json, "Normal" = Normally, "Bold" = Bold as the Japanese font name of your choice changes the game's screen display.
-    You can download your favorite Japanese fonts from Google Font (https://fonts.google.com) and Adobe Font (https://fonts.adobe.com).
+    You can download your favorite Japanese fonts from [Google Font](https://fonts.google.com) and [Adobe Font](https://fonts.adobe.com).
 
 9.Link
 
   - Official Website
     
-　　Terminus: Zombie Survivors (https://terminuszombiesurvivors.com)
+　　[Terminus: Zombie Survivors](https://terminuszombiesurvivors.com)
 
   - Unofficial Japanese Support Discord
     
-　　Terminus: Zombie Survivors Japan  (https://discord.gg/msDjAbqx7r)
+　　[Terminus: Zombie Survivors Japan](https://discord.gg/msDjAbqx7r)
