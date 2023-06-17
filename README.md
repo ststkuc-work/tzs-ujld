@@ -5,7 +5,7 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 
  Terminus: Zombie Survivors (hereafter T:ZS) - Distribute translation data in unofficial Japanese.
  - Download link (https://github.com/ststkuc-work/tzs-ujld/)
- - Links to unofficial Japanese language support (https://discord.new/jKg8qfQ3eWZx)
+ - Links to unofficial Japanese language support (https://discord.gg/msDjAbqx7r)
  - Compatible with V 0.9.8 Beta and Hotfix.
  - Translation data is unofficial. It has nothing to do with IngeonGames.
 
@@ -76,7 +76,7 @@ added.
     I would like to inform you that the translation is not inconvenient.
 
  Q: There is a free translation.
- A: Please send a better idea in the comments or to the Terminus: Zombie Survivors Japan channel "# Translate" on Discord (github.com).
+ A: Please send a better idea in the comments or to the Terminus: Zombie Survivors Japan channel "# Translate" on Discord (https://discord.gg/msDjAbqx7r).
 
  Q: I want to change the Japanese characters.
  A: In FontInfo.json, "Normal" = Normally, "Bold" = Bold as the Japanese font name of your choice changes the game's screen display.
@@ -88,4 +88,4 @@ added.
 　　Terminus: Zombie Survivors (https://terminuszombiesurvivors.com)
 
   - Unofficial Japanese Support Discord
-　　Terminus: Zombie Survivors Japan  (https://discord.new/jKg8qfQ3eWZx)
+　　Terminus: Zombie Survivors Japan  (https://discord.gg/msDjAbqx7r)
