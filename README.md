@@ -8,3 +8,7 @@ https://discord.gg/msDjAbqx7r
  - 英語から日本語への変更点 **【最終更新：2023年06月17日】**
 
 　2023年06月09日の英語データから、更新はありません。
+
+ - Changes from English to Japanese (Last updated: June 17, 2023)
+
+　There has been no update from English data on June 9, 2023.
