@@ -5,6 +5,7 @@
   "global_minus": "- ",
   "global_rb": " ({name})",
   "global_sb": " [{name}]",
+  "global_space": " ",
   "global_percent": "{num}%",
   "global_decimal_separator": ".",
   "global_menu": "メニュー",
@@ -101,7 +102,7 @@
   "mainmenu_steamdiscussions": "Steam ディスカッション",
   "mainmenu_open": "{name}を開く",
   "mainmanu_older_save": "以前のバージョンのセーブファイル",
-  "mainmanu_older_save_desc": "ゲームが更新されました。以前のバージョンで作成されたゲームファイルを実行すると、予期しない問題が発生する可能性があります。<br>新しいゲームを開始することをお勧めします。<br>セーブファイル バージョン: <color=RED>{ver1}</color><br>現在のバージョン: <color=Green>{ver2}</color>",
+  "mainmanu_older_save_desc": "ゲームが更新されました。以前のバージョンで作成されたゲームファイルを実行すると、予期しない問題が発生する可能性があります。<br>新しいゲームを開始することをお勧めします。<br>セーブファイル バージョン: <color=RED>{ver1}</color><br>現在のバージョン: <color=GREEN>{ver2}</color>",
   "mainmenu_older_save_confirm": "引き続きロードする",
   "mainmenu_loading_error": "ロードエラー",
   "mainmenu_loading_error_1": "ゲームが更新されて、以前にセーブされたゲームファイルをロードできなくなりました。新しいゲームを始めてください。",
@@ -2458,6 +2459,5 @@
   "help_places_tunnel": "トンネル",
   "help_places_tunnel_desc": "この場所は、レイル・ロードが通っている暗い場所です。<br>ライトは明かりを、シャベルはデブリの取り除きに役立ちます。",
   "help_places_terminus": "ターミナル",
-  "help_places_terminus_desc": "ここはゾンビ黙示録の生存者が集まる場所です。<br>ゲームをクリアするためには、金網を超えてターミナルの建物入り口まで進まなければなりません。",
-  "": "　"
+  "help_places_terminus_desc": "ここはゾンビ黙示録の生存者が集まる場所です。<br>ゲームをクリアするためには、金網を超えてターミナルの建物入り口まで進まなければなりません。"
 }
