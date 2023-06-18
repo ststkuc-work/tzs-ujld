@@ -44,7 +44,7 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 
 ５．翻訳データのインストール
 
-   - C:\Program Files (x86)\Steam\steamapps\common\Terminus\languagesフォルダにJapaneseフォルダを作成します。
+   - C:\Program Files (x86)\Steam\steamapps\common\Terminus\languagesフォルダのJapaneseフォルダを作成します。
    - Japaneseフォルダにダウンロードしたデータを格納します。
 
    - Data_English_to_Japanese_最新の日付ファイルは、英語から日本語へ翻訳された日付を示すファイルです。
@@ -63,7 +63,7 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 
 ７．翻訳データのアンインストール
 
-   - C:\Program Files (x86)\Steam\steamapps\common\Terminus\languagesフォルダにJapaneseフォルダを削除します。
+   - C:\Program Files (x86)\Steam\steamapps\common\Terminus\languagesフォルダのJapaneseフォルダを削除します。
    - ゲームを起動すると、ゲーム内の表示は、日本語から英語に変更されます。
 
 ８．FAQ
