@@ -1035,7 +1035,7 @@
   "trait_DIY_lover": "DIY・ラバー",
   "trait_DIY_lover_desc": "製作に消費したAPの50%、モラルを回復する。",
   "trait_good_stomach": "グッド・ストマック",
-  "trait_good_stomach_desc": "食事をしても、モラルは減少しない。",
+  "trait_good_stomach_desc": "腐った食料品や生肉を食べても、モラルは減少しない。ただし、病気になる。",
   "trait_favorite_weapon": "フェイバリット・ウェポン",
   "trait_favorite_weapon_desc": "1つの近接武器をお気に入りの武器に設定する。修理した場合、100%の修理ボーナスを得る。",
   "trait_sleep_lover": "スリープ・ラバー",
