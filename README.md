@@ -5,12 +5,12 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 
 https://discord.gg/msDjAbqx7r
 
- - 英語から日本語への変更点 **【最終更新：2023年06月24日】**
-   - 32件（シナリオの説明文章、チュートリアル・メッセージの見た目）の修正と、軽微な誤表記を修正しました。
+ - 英語から日本語への変更点 **【最終更新：2023年06月30日】**
+   - 1件（6月30日、V 0.9.8 Hotfixでアイテムをクラフトするための新しい条件が追加されました。そのため、画面表示の外観）を更新しました。
 
 　2023年06月09日の英語データから、更新はありません。
 
- - Changes from English to Japanese (Last updated: June 24, 2023)
-   - Fixed 32 places (appearance of scenario text and tutorial messages) and minor misrepresentations.
+ - Changes from English to Japanese (Last updated: June 30, 2023)
+   - Fixed 1 places (On June 30, new conditions were added for crafting items with V 0.9.8 Hotfix. Therefore, we have updated the appearance of the screen display.).
 
 　There has been no update from English data on June 9, 2023.
