@@ -1543,7 +1543,7 @@
   "craftmodal_amount_of_work": "作業量",
   "craftmodal_materials": "素材:",
   "craftmodal_as_a_tool": " (道具として)",
-  "craftmodal_or": "また",
+  "craftmodal_or": "<br>または、",
   "craftmodal_need_tool": "このアイテムの製作には、対応する<color=RED>道具</color>が必要だ。",
   "craftmodal_any_book": "任意の本",
   "craftmodal_any_knife": "任意のナイフ",
