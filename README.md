@@ -10,5 +10,5 @@ https://discord.gg/msDjAbqx7r
    - 2023年07月18日の英語データを使用。
 
  - Changes from English to Japanese (Last updated: July 20, 2023)
-   - Fixed 31 places(On July 18, Changed in the V 0.9.8 Hotfix to allow you to use the radio immediately by right-clicking instead of popping up.Therefore, the "popup_radio" line was deleted. screen appearance and uniformity of description).
+   - Fixed 31 places(On July 18, Changed in the V 0.9.8 Hotfix to allow you to use the radio immediately by right-clicking instead of popping up. The "popup_radio" line was deleted. screen appearance and uniformity of description).
    - Using English data as of July 18, 2023.
