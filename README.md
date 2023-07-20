@@ -9,6 +9,6 @@ https://discord.gg/msDjAbqx7r
    - 1件を更新しました。（誤った改行位置の修正）
    - 2023年07月18日の英語データから変更は、ありません。
 
- - Changes from English to Japanese (Last updated: July 20, 2023)
+ - Changes from English to Japanese (Last updated: July 21, 2023)
    - Fixed 1 places. (Correcting incorrect line breaks)
    - There is no change from the English data of July 18, 2023.
