@@ -371,7 +371,7 @@
   "burn_ointment": "バーン・オイントゥメント",
   "antibiotic": "アンチバイオティック",
   "painkiller": "ペインキラー",
-  "painkiller_desc": "状態異常を無視する。",
+  "painkiller_desc": "状態異常を無効",
   "sleeping_pill": "スリーピング・ピル",
   "med_desc_heal": "<color=GREEN>{ailment}</color>を治療する。",
   "med_desc_headache": "<color=RED>頭痛の原因</color>",
