@@ -932,7 +932,7 @@
   "perk_survival_cooking": "サバイバル・クッキング",
   "perk_survival_cooking_desc": "美味しく料理することで、満腹感が<br><color=GREEN>+20%</color>減少",
   "perk_pathfinder": "パスファインダー",
-  "perk_pathfinder_desc": "別の場所への移動にかかる<br>AP消費量を<color=GREEN>-10%</color>減少",
+  "perk_pathfinder_desc": "別の場所への移動にかかる<br>AP消費量を <color=GREEN>-10%</color>減少",
   "perk_fighting_instinct": "コンバット・インスティンクト",
   "perk_fighting_instinct_lv1": "Lv.1 近接攻撃のダメージが <color=GREEN>+50%</color>増加",
   "perk_fighting_instinct_lv2": "Lv.2 近接攻撃のダメージが <color=GREEN>+100%</color>増加",
