@@ -5,10 +5,8 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 
 https://discord.gg/msDjAbqx7r
 
- - 英語から日本語への変更点 【最終更新：2023年08月27日】
-   - 1件を更新しました。（パーク・レンジャーのユニーク・パーク　トラッパーの画面表示を修正）
-   - 2023年07月18日の英語データから変更は、ありません。
+ - 英語から日本語への変更点 【最終更新：2023年10月16日】
+   - version: 0.9.9.359 英語から日本語へ翻訳対応済。
 
- - Changes from English to Japanese (Last updated: August 27, 2023)
-   - Fixed 1 places. (Fix screen display of Park Ranger's unique park trapper)
-   - There is no change from the English data of July 18, 2023.
+ - Changes from English to Japanese (Last updated: October 16, 2023)
+   - version: 0.9.9.359 Translated from English to Japanese
