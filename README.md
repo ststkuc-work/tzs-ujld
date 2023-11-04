@@ -5,10 +5,12 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 
 https://discord.gg/msDjAbqx7r
 
- - 英語から日本語への変更点 【最終更新：2023年10月23日】
-   - version: 0.9.9.379 新しく追加された英文の7箇所を翻訳。
-   - 翻訳の見栄えを修正。4カ所の記載を見直し。
+ - 英語から日本語への変更点 【最終更新：2023年11月04日】
+   - version: 0.9.9.396 英文の2箇所を修正。
+   - ゲームシステムで、パッチノートの表示や農作業などに使用するコマンドラインが削除。
+   - 上記により、翻訳ファイルも対応。
 
  - Changes from English to Japanese (Last updated: October 23, 2023)
-   - version: 0.9.9.379 Translate 7 newly added English sentences.
-   - Corrects the appearance of the translation. Revised 4 entries.
+   - version: 0.9.9.396 Fixed two parts in English sentences.
+   - On the game system, the command line used to display patchnotes_dontshow and harvestpopup was removed.
+   - As described above, translation files are also supported.
