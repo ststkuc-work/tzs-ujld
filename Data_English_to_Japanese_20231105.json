@@ -1250,7 +1250,7 @@
   "perk_counter_attack_lv1": "Lv.1 回避時に <color=GREEN>33%</color>の確率で反撃",
   "perk_counter_attack_lv2": "Lv.2 回避時に <color=GREEN>67%</color>の確率で反撃",
   "perk_counter_attack_lv3": "Lv.3 回避時に <color=GREEN>100%</color>の確率で反撃",
-  "perk_counter_attack_lv4": "Lv.4 回避時に <color=GREEN>100%</color>の確率で反撃し、追加攻撃を与える",
+  "perk_counter_attack_lv4": "Lv.4 回避時に <color=GREEN>100%</color>の確率で反撃し、<color=GREEN>追跡攻撃</color>を与える",
   "perk_energizer": "エナジャイザー",
   "perk_energizer_lv1": "Lv.1 ターンごとにAPを <color=GREEN>+1.0</color> 追加回復",
   "perk_energizer_lv2": "Lv.2 ターンごとにAPを <color=GREEN>+1.5</color> 追加回復",
