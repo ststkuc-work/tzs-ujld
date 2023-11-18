@@ -5,8 +5,8 @@ Terminus: Zombie Survivors - Unofficial Japanese Language Data
 
 https://discord.gg/msDjAbqx7r
 
- - 英語から日本語への変更点 【最終更新：2023年11月05日】
-   - version: 0.9.9.397 英文の1箇所を修正。
+ - 英語から日本語への変更点 【最終更新：2023年11月18日】
+   - version: 0.9.9.402 英文の19箇所を修正。
 
- - Changes from English to Japanese (Last updated: November 5, 2023)
-   - version: 0.9.9.397 Fixed one parts in English sentences.
+ - Changes from English to Japanese (Last updated: November 18, 2023)
+   - version: 0.9.9.402 Fixed 19 parts in English sentences.
