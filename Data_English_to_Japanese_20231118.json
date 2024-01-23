@@ -1439,7 +1439,7 @@
   "status_effect_holy": "神聖",
   "status_effect_holy_victory": "攻撃力は <color=GREEN>100%</color>、回避率は <color=GREEN>50%</color>増加する。",
   "status_effect_holy_recovery": "睡眠中の状態異常の回復率を <color=GREEN>2倍</color>に増加する。",
-  "status_effect_holy_overcoming": "空腹や寒さによるHPの損失を <color=GREEN>半分</color>に減少する。",
+  "status_effect_holy_overcoming": "空腹や喉の渇きによるHPの損失が <color=GREEN>半分</color>に減る。",
   "status_effect_holy_inspiration": "読書速度と製作速度を <color=GREEN>100%</color>増加する。",
   "zombie_normal": "ゾンビ",
   "zombie_normal_desc": "ゾンビは、終わりのない飢えと怒りを鎮めようとする。動きながら不気味に揺れる死体は、朽ち果てた手足で前によろめきながら前進する。",
